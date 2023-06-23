@@ -3,7 +3,9 @@
 Esse projeto implementa em phyton os algoritimos de verificação dos grafos hamiltonianos.<br/>
 - Teorema de Dirac;<br/>
 - Teorema de Ore;<br/>
-- Teorema de Bondy e Chvátal;<br/>Também será determinado o tipo euleriano do grafo, bem como o seu caminho caso possivel.<br/>
+- Teorema de Bondy e Chvátal;<br/>
+
+<br/>Também será determinado o tipo euleriano do grafo, bem como o seu caminho caso possivel.<br/>
 - Euleriano;<br/>
 - Semi-Euleriano;<br/>
 - Não Euleriano;<br/>
