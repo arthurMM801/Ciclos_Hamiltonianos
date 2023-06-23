@@ -4,8 +4,6 @@ Esse projeto implementa em phyton os algoritimos de verificação dos grafos ham
 -Teorema de Dirac;<br/>
 -Teorema de Ore;<br/>
 -Teorema de Bondy e Chvátal;<br/>
-
-<br/><br/>
 Também será determinado o tipo euleriano do grafo, bem como o seu caminho caso possivel.<br/>
 
 Aplica os quatro exemplos representados abaixo nesses algoritimos:<br/>
